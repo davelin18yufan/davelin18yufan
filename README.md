@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 --
  📫 How to reach me: davelin30630@gmail.com
  
+ 🌞Motivation🌝 
+ --
  > Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live. (Martin Golding)
 
  > It’s a curious thing about our industry: not only do we not learn from our mistakes, we also don’t learn from our successes. (Keith Braithwaite)
