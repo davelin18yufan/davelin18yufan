@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-💪🏼 🌱 I’m currently learning front-end development, targeting *blockchain*, make it count.
+💪🏼 🌱 I’m currently learning front-end development, targeting *blockchain*, .
 --
  📫 How to reach me: davelin30630@gmail.com
  
