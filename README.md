@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🌱. Programing newbie 
+
 💪🏼. I’m currently learning front-end development, targeting *blockchain*, keep it up!
 --
  📫 How to reach me: davelin30630@gmail.com
