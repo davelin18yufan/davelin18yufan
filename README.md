@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hello, fellow developers!
 
 <!--
 **davelin18yufan/davelin18yufan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🌱. Programing newbie 
-
-👋 Hello, fellow developers!
 
 I'm __Dave__, a passionate software developer with a background in the finance industry. What started as a curiosity soon turned into a full-fledged passion for coding, and I'm excited to be on this journey of continuous learning and growth in the world of software development.
 
