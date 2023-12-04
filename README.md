@@ -1,6 +1,6 @@
 ### 👋 Hello, fellow developers!
 
-<img src="https://github.com/davelin18yufan/davelin18yufan/assets/113662980/7a896bff-3d51-47f3-b873-1e90866d3f37" alt="cover_photo" style="width:60%; height:60%; margin: 0 auto"/>
+<img src="https://github.com/davelin18yufan/davelin18yufan/assets/113662980/7a896bff-3d51-47f3-b873-1e90866d3f37" alt="cover_photo" style="width:80%; height:60%; display: flex; justify-content: center"/>
 
 <!--
 **davelin18yufan/davelin18yufan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,15 +16,13 @@ Here are some ideas to get you started:
 -->
 🌱. Programing newbie 
 
-I'm __Dave__, a passionate software developer with a background in the finance industry. What started as a curiosity soon turned into a full-fledged passion for coding, and I'm excited to be on this journey of continuous learning and growth in the world of software development.
+I'm __Dave__, a passionate software developer with a background in the finance industry. 
 
 With a strong foundation in finance and a deep understanding of the industry's challenges, I bring a unique perspective to my coding projects. I believe that the fusion of my financial expertise and programming skills allows me to develop innovative solutions that can make a real impact.
 
 If you share the same passion for coding or have any exciting projects in mind, I'd love to connect and collaborate. Feel free to reach out to me on LinkedIn or through email.
 
 🔭 Together, let's embrace the endless possibilities of software development and make a positive impact on the world. Happy coding!
-💬 Contact: davelin30630@gmail.com
-
 
 
 --
