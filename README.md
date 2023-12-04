@@ -1,6 +1,8 @@
 ### 👋 Hello, fellow developers!
 
-<img src="https://github.com/davelin18yufan/davelin18yufan/assets/113662980/7a896bff-3d51-47f3-b873-1e90866d3f37" alt="cover_photo" style="width:80%; height:50%; display: flex; justify-content: center"/>
+<div style="display: flex; justify-content: center">
+ <img src="https://github.com/davelin18yufan/davelin18yufan/assets/113662980/7a896bff-3d51-47f3-b873-1e90866d3f37" alt="cover_photo" style="width:80%; height:40%; "/>
+</div>
 
 <!--
 **davelin18yufan/davelin18yufan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
