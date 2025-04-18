@@ -4,7 +4,7 @@
 
 <h3 align="center">
 Hi there, I'm <a href="https://www.linkedin.com/in/dave-lin-1a05a5168/" target="_blank" rel="noreferrer">Dave</a>👋
- ,A frontend developer
+ , A frontend developer
 
 </h3>
 
