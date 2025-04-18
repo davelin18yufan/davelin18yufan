@@ -19,7 +19,7 @@ Hi there, I'm <a href="https://www.linkedin.com/in/dave-lin-1a05a5168/" target="
   <img alt="DotNET" src="https://img.shields.io/badge/-.NET-8884d8?style=flat-square&logo=dotnet&logoColor=white" />
 </p>
 
-With a strong foundation in finance and a deep understanding of the industry's challenges, I bring a unique perspective to my coding projects. I believe that the fusion of my financial expertise and programming skills allows me to develop innovative solutions that can make a real impact.
+With a strong foundation in finance and a deep understanding of the industry's challenges, I bring a unique perspective to my coding projects. I believe that the fusion of my financial expertise and programming dedication allows me to develop innovative solutions that can make a real impact.
 
 If you share the same passion for coding or have any exciting projects in mind, I'd love to connect and collaborate. Feel free to reach out to me on LinkedIn or through email.
 
